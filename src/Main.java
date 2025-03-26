@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args)
     {
         Scanner cin = new Scanner(System.in);
+        //hello
         Student d=new Student();
         Student[] x=new Student[3];
         for(int i=0;i<3;i++)
